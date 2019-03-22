@@ -86,7 +86,7 @@ body {
 .cando-inner .text-title {
   margin-bottom: 35px;
 }
-.cando-inner .content-text {
+.content-text {
   font-size: 20px;
   font-family: 'Lato';
   line-height: 28px;
@@ -112,7 +112,7 @@ body {
 }
 .work-bottom {
   display: flex;
-  margin: 0 90px;
+  margin: 0 170px;
   align-items: start;
 }
 .email-btn {
@@ -161,8 +161,6 @@ body {
   padding: 20px 0 25px 0;
   color: #fff;
 }
-.footer-text {
-  font-size: 20px;
+.footer-inner .content-text {
   text-align: right;
-  font-family: 'lato';
 }
